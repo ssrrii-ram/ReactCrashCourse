@@ -39,7 +39,7 @@
 
 }
 
-.search{
+.filter{
     padding: 10px;
 }
 
@@ -52,4 +52,10 @@
     gap: 10px;
     display: flex;
     flex-wrap: wrap;
+}
+
+.filter-btn{
+    padding: 5px;
+    margin: 10px;
+    cursor: pointer;
 }

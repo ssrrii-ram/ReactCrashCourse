@@ -1,6 +1,3 @@
-import React from "react"
-import ReactDOM from "react-dom/client"
-
 const resList = [
     {
       "info": {
@@ -34,20 +31,20 @@ const resList = [
           "opened": true
         },
         "badges": {
-
+  
         },
         "isOpen": true,
         "type": "F",
         "badgesV2": {
           "entityBadges": {
             "textBased": {
-
+  
             },
             "imageBased": {
-
+  
             },
             "textExtendedBadges": {
-
+  
             }
           }
         },
@@ -60,19 +57,19 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -86,7 +83,7 @@ const resList = [
         "campaignId": "20912080"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=704216",
@@ -125,20 +122,20 @@ const resList = [
           "opened": true
         },
         "badges": {
-
+  
         },
         "isOpen": true,
         "type": "F",
         "badgesV2": {
           "entityBadges": {
             "textBased": {
-
+  
             },
             "imageBased": {
-
+  
             },
             "textExtendedBadges": {
-
+  
             }
           }
         },
@@ -151,19 +148,19 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -176,7 +173,7 @@ const resList = [
         "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=64700",
@@ -225,7 +222,7 @@ const resList = [
         "badgesV2": {
           "entityBadges": {
             "textBased": {
-
+  
             },
             "imageBased": {
               "badgeObject": [
@@ -238,7 +235,7 @@ const resList = [
               ]
             },
             "textExtendedBadges": {
-
+  
             }
           }
         },
@@ -251,19 +248,19 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -273,7 +270,7 @@ const resList = [
         "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=748065",
@@ -323,10 +320,10 @@ const resList = [
         "badgesV2": {
           "entityBadges": {
             "textExtendedBadges": {
-
+  
             },
             "textBased": {
-
+  
             },
             "imageBased": {
               "badgeObject": [
@@ -349,19 +346,19 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -371,7 +368,7 @@ const resList = [
         "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=564242",
@@ -411,20 +408,20 @@ const resList = [
           "opened": true
         },
         "badges": {
-
+  
         },
         "isOpen": true,
         "type": "F",
         "badgesV2": {
           "entityBadges": {
             "textBased": {
-
+  
             },
             "imageBased": {
-
+  
             },
             "textExtendedBadges": {
-
+  
             }
           }
         },
@@ -437,19 +434,19 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -460,7 +457,7 @@ const resList = [
         "campaignId": "18894413"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=876113",
@@ -511,7 +508,7 @@ const resList = [
         "badgesV2": {
           "entityBadges": {
             "textBased": {
-
+  
             },
             "imageBased": {
               "badgeObject": [
@@ -524,7 +521,7 @@ const resList = [
               ]
             },
             "textExtendedBadges": {
-
+  
             }
           }
         },
@@ -538,19 +535,19 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -560,7 +557,7 @@ const resList = [
         "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=834672",
@@ -611,7 +608,7 @@ const resList = [
         "badgesV2": {
           "entityBadges": {
             "textBased": {
-
+  
             },
             "imageBased": {
               "badgeObject": [
@@ -624,7 +621,7 @@ const resList = [
               ]
             },
             "textExtendedBadges": {
-
+  
             }
           }
         },
@@ -637,19 +634,19 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -659,7 +656,7 @@ const resList = [
         "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=104680",
@@ -721,10 +718,10 @@ const resList = [
               ]
             },
             "textExtendedBadges": {
-
+  
             },
             "textBased": {
-
+  
             }
           }
         },
@@ -737,19 +734,19 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -759,7 +756,7 @@ const resList = [
         "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=324245",
@@ -802,23 +799,23 @@ const resList = [
           "opened": true
         },
         "badges": {
-
+  
         },
         "isOpen": true,
         "aggregatedDiscountInfoV2": {
-
+  
         },
         "type": "F",
         "badgesV2": {
           "entityBadges": {
             "imageBased": {
-
+  
             },
             "textExtendedBadges": {
-
+  
             },
             "textBased": {
-
+  
             }
           }
         },
@@ -827,20 +824,20 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "isNewlyOnboarded": true,
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -851,7 +848,7 @@ const resList = [
         "campaignId": "20906756"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=933435",
@@ -912,10 +909,10 @@ const resList = [
               ]
             },
             "textExtendedBadges": {
-
+  
             },
             "textBased": {
-
+  
             }
           }
         },
@@ -929,20 +926,20 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "isNewlyOnboarded": true,
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -952,7 +949,7 @@ const resList = [
         "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=937183",
@@ -1013,10 +1010,10 @@ const resList = [
               ]
             },
             "textExtendedBadges": {
-
+  
             },
             "textBased": {
-
+  
             }
           }
         },
@@ -1028,19 +1025,19 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -1050,7 +1047,7 @@ const resList = [
         "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=698364",
@@ -1109,10 +1106,10 @@ const resList = [
               ]
             },
             "textExtendedBadges": {
-
+  
             },
             "textBased": {
-
+  
             }
           }
         },
@@ -1125,20 +1122,20 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "isNewlyOnboarded": true,
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -1148,7 +1145,7 @@ const resList = [
         "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=928546",
@@ -1191,23 +1188,23 @@ const resList = [
           "opened": true
         },
         "badges": {
-
+  
         },
         "isOpen": true,
         "aggregatedDiscountInfoV2": {
-
+  
         },
         "type": "F",
         "badgesV2": {
           "entityBadges": {
             "textBased": {
-
+  
             },
             "imageBased": {
-
+  
             },
             "textExtendedBadges": {
-
+  
             }
           }
         },
@@ -1216,19 +1213,19 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -1239,7 +1236,7 @@ const resList = [
         "campaignId": "20906389"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=574084",
@@ -1278,20 +1275,20 @@ const resList = [
           "opened": true
         },
         "badges": {
-
+  
         },
         "isOpen": true,
         "type": "F",
         "badgesV2": {
           "entityBadges": {
             "textExtendedBadges": {
-
+  
             },
             "textBased": {
-
+  
             },
             "imageBased": {
-
+  
             }
           }
         },
@@ -1304,19 +1301,19 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -1326,7 +1323,7 @@ const resList = [
         "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=801005",
@@ -1364,20 +1361,20 @@ const resList = [
           "opened": true
         },
         "badges": {
-
+  
         },
         "isOpen": true,
         "type": "F",
         "badgesV2": {
           "entityBadges": {
             "textBased": {
-
+  
             },
             "imageBased": {
-
+  
             },
             "textExtendedBadges": {
-
+  
             }
           }
         },
@@ -1390,19 +1387,19 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -1412,7 +1409,7 @@ const resList = [
         "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=801011",
@@ -1448,20 +1445,20 @@ const resList = [
           "opened": true
         },
         "badges": {
-
+  
         },
         "isOpen": true,
         "type": "F",
         "badgesV2": {
           "entityBadges": {
             "textBased": {
-
+  
             },
             "imageBased": {
-
+  
             },
             "textExtendedBadges": {
-
+  
             }
           }
         },
@@ -1475,19 +1472,19 @@ const resList = [
           "differentiatedUiMediaDetails": {
             "mediaType": "ADS_MEDIA_ENUM_IMAGE",
             "lottie": {
-
+  
             },
             "video": {
-
+  
             }
           }
         },
         "reviewsSummary": {
-
+  
         },
         "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
         "restaurantOfferPresentationInfo": {
-
+  
         },
         "externalRatings": {
           "aggregatedRating": {
@@ -1497,7 +1494,7 @@ const resList = [
         "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
       },
       "analytics": {
-
+  
       },
       "cta": {
         "link": "swiggy://menu?restaurant_id=262391",
@@ -1506,76 +1503,5 @@ const resList = [
       }
     }
   ]
-    
 
-      
-
-
-
-const Header = () =>{
-    
-    return(
-        <div className="header">
-            <div className="logo-container">
-                <img className="logo" src="https://t4.ftcdn.net/jpg/01/97/43/53/240_F_197435318_NoRnZBYZH1sPryUc9Cse1oJepwc991pM.jpg" />
-            </div>
-            <div className="nav-items">
-                <ul>
-                <li>Home</li>
-                <li>About Us</li>
-                <li>Contact Us</li>
-                <li>Complaints</li>
-                </ul>
-            </div>
-        </div>
-    )
-}
-
-const RestaurantCard = (props) =>{
-    const{resdata} = props
-    
-    const {cloudinaryImageId, name, locality, cuisines, costForTwo} = resdata.info 
-    
-    return(
-        <div className="res-card">
-            <img className="res-logo" src={"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/" + cloudinaryImageId} />
-            <h3>{name}</h3>
-            <h4>{locality}</h4>
-            <h4>{cuisines.join(" , ")} </h4>
-            <h4>{costForTwo}</h4>
-        </div>
-    )
-}
-
-const Body = () =>{
-    return(
-        <div className="body">
-            <div className="search">Search</div>
-            
-            <div className="res-container">
-                {
-                    resList.map((restaurant) =>(
-                        <RestaurantCard resdata ={restaurant} key={restaurant.info.id} />
-                        
-                    ))
-                }
-                
-            </div>
-        </div>
-    )
-}
-
-
-const AppLayout = () =>{
-    return (
-        <div className="app">
-            <Header />
-            <Body />
-        </div>
-    )
-}
-
-
-const root = ReactDOM.createRoot(document.getElementById("root"))
-root.render(<AppLayout/>)
-
+export default resList
