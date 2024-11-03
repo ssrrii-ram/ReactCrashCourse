@@ -1,7 +1,55 @@
-#heading{
-    color:red
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
 }
 
-#h23{
-    color:green
+.logo{
+    width: 80px;
+}
+
+
+.nav-items {
+    padding: 0 0;
+}
+
+
+.nav-items > ul{
+    display: flex; 
+    list-style-type: none;   
+   
+}
+
+.nav-items > ul > li{
+    padding: 10px;
+    margin: 10px;
+    
+   
+}
+
+.res-card{
+    padding: 5px; 
+    width: 200px;
+}
+
+.res-card:hover{
+    border: 1px solid black;
+    cursor: pointer;
+    transition: all 6s ease-in-out;
+
+}
+
+.search{
+    padding: 10px;
+}
+
+.res-logo{
+    width: 100%;
+    height: 200px;
+}
+
+.res-container{
+    gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
 }
