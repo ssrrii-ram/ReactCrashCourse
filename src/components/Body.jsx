@@ -52,11 +52,11 @@ const Body = () => {
             className="filter-btn"
             onClick={() => {
               setListOfRestaurants(
-                allRestaurants.filter((res) => res.info.avgRating < 4)
+                allRestaurants.filter((res) => res.info.avgRating > 4)
               );
             }}
           >
-            filtered Restaurant
+            Top Rated Restaurant
           </button>
         </div>
       </div>

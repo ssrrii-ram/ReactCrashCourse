@@ -61,14 +61,12 @@
 }
 
 .shimmer {
-  width: 200px;
-  height: 200px;
-  background-color: #f0f0f0;
-  border-radius: 8px;
+  height: 150px;
+  width: 300px;
+  background: linear-gradient(-45deg, #eee 40%, #fafafa 50%, #eee 60%);
 }
 
 .shimmer:hover {
   cursor: pointer;
   transition: all 0.8s ease-out;
-  transform: scaleX(1.1);
 }
